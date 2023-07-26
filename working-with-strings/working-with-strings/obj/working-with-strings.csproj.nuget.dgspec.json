@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\user 1\\Desktop\\github-projects\\C-Sharp-projects\\working-with-strings\\working-with-strings\\working-with-strings.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\user 1\\Desktop\\github-projects\\C-Sharp-projects\\working-with-strings\\working-with-strings\\working-with-strings.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user 1\\Desktop\\github-projects\\C-Sharp-projects\\working-with-strings\\working-with-strings\\working-with-strings.csproj",
+        "projectName": "working-with-strings",
+        "projectPath": "C:\\Users\\user 1\\Desktop\\github-projects\\C-Sharp-projects\\working-with-strings\\working-with-strings\\working-with-strings.csproj",
+        "packagesPath": "C:\\Users\\user 1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user 1\\Desktop\\github-projects\\C-Sharp-projects\\working-with-strings\\working-with-strings\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user 1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

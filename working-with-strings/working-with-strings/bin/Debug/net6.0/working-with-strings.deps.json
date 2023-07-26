@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "working-with-strings/1.0.0": {
+        "runtime": {
+          "working-with-strings.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "working-with-strings/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

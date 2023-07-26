@@ -1,0 +1,15 @@
+C:\Users\user 1\Desktop\github-projects\C-Sharp-projects\working-with-strings\working-with-strings\bin\Debug\net6.0\working-with-strings.exe
+C:\Users\user 1\Desktop\github-projects\C-Sharp-projects\working-with-strings\working-with-strings\bin\Debug\net6.0\working-with-strings.deps.json
+C:\Users\user 1\Desktop\github-projects\C-Sharp-projects\working-with-strings\working-with-strings\bin\Debug\net6.0\working-with-strings.runtimeconfig.json
+C:\Users\user 1\Desktop\github-projects\C-Sharp-projects\working-with-strings\working-with-strings\bin\Debug\net6.0\working-with-strings.dll
+C:\Users\user 1\Desktop\github-projects\C-Sharp-projects\working-with-strings\working-with-strings\bin\Debug\net6.0\working-with-strings.pdb
+C:\Users\user 1\Desktop\github-projects\C-Sharp-projects\working-with-strings\working-with-strings\obj\Debug\net6.0\working-with-strings.csproj.AssemblyReference.cache
+C:\Users\user 1\Desktop\github-projects\C-Sharp-projects\working-with-strings\working-with-strings\obj\Debug\net6.0\working-with-strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user 1\Desktop\github-projects\C-Sharp-projects\working-with-strings\working-with-strings\obj\Debug\net6.0\working-with-strings.AssemblyInfoInputs.cache
+C:\Users\user 1\Desktop\github-projects\C-Sharp-projects\working-with-strings\working-with-strings\obj\Debug\net6.0\working-with-strings.AssemblyInfo.cs
+C:\Users\user 1\Desktop\github-projects\C-Sharp-projects\working-with-strings\working-with-strings\obj\Debug\net6.0\working-with-strings.csproj.CoreCompileInputs.cache
+C:\Users\user 1\Desktop\github-projects\C-Sharp-projects\working-with-strings\working-with-strings\obj\Debug\net6.0\working-with-strings.dll
+C:\Users\user 1\Desktop\github-projects\C-Sharp-projects\working-with-strings\working-with-strings\obj\Debug\net6.0\refint\working-with-strings.dll
+C:\Users\user 1\Desktop\github-projects\C-Sharp-projects\working-with-strings\working-with-strings\obj\Debug\net6.0\working-with-strings.pdb
+C:\Users\user 1\Desktop\github-projects\C-Sharp-projects\working-with-strings\working-with-strings\obj\Debug\net6.0\working-with-strings.genruntimeconfig.cache
+C:\Users\user 1\Desktop\github-projects\C-Sharp-projects\working-with-strings\working-with-strings\obj\Debug\net6.0\ref\working-with-strings.dll
