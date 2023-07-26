@@ -1,0 +1,15 @@
+C:\Users\user 1\Desktop\github-projects\C-Sharp-projects\Drawing Shapes\Drawing Shapes\obj\Debug\net6.0\Drawing Shapes.csproj.AssemblyReference.cache
+C:\Users\user 1\Desktop\github-projects\C-Sharp-projects\Drawing Shapes\Drawing Shapes\obj\Debug\net6.0\Drawing Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user 1\Desktop\github-projects\C-Sharp-projects\Drawing Shapes\Drawing Shapes\obj\Debug\net6.0\Drawing Shapes.AssemblyInfoInputs.cache
+C:\Users\user 1\Desktop\github-projects\C-Sharp-projects\Drawing Shapes\Drawing Shapes\obj\Debug\net6.0\Drawing Shapes.AssemblyInfo.cs
+C:\Users\user 1\Desktop\github-projects\C-Sharp-projects\Drawing Shapes\Drawing Shapes\obj\Debug\net6.0\Drawing Shapes.csproj.CoreCompileInputs.cache
+C:\Users\user 1\Desktop\github-projects\C-Sharp-projects\Drawing Shapes\Drawing Shapes\bin\Debug\net6.0\Drawing Shapes.exe
+C:\Users\user 1\Desktop\github-projects\C-Sharp-projects\Drawing Shapes\Drawing Shapes\bin\Debug\net6.0\Drawing Shapes.deps.json
+C:\Users\user 1\Desktop\github-projects\C-Sharp-projects\Drawing Shapes\Drawing Shapes\bin\Debug\net6.0\Drawing Shapes.runtimeconfig.json
+C:\Users\user 1\Desktop\github-projects\C-Sharp-projects\Drawing Shapes\Drawing Shapes\bin\Debug\net6.0\Drawing Shapes.dll
+C:\Users\user 1\Desktop\github-projects\C-Sharp-projects\Drawing Shapes\Drawing Shapes\bin\Debug\net6.0\Drawing Shapes.pdb
+C:\Users\user 1\Desktop\github-projects\C-Sharp-projects\Drawing Shapes\Drawing Shapes\obj\Debug\net6.0\Drawing Shapes.dll
+C:\Users\user 1\Desktop\github-projects\C-Sharp-projects\Drawing Shapes\Drawing Shapes\obj\Debug\net6.0\refint\Drawing Shapes.dll
+C:\Users\user 1\Desktop\github-projects\C-Sharp-projects\Drawing Shapes\Drawing Shapes\obj\Debug\net6.0\Drawing Shapes.pdb
+C:\Users\user 1\Desktop\github-projects\C-Sharp-projects\Drawing Shapes\Drawing Shapes\obj\Debug\net6.0\Drawing Shapes.genruntimeconfig.cache
+C:\Users\user 1\Desktop\github-projects\C-Sharp-projects\Drawing Shapes\Drawing Shapes\obj\Debug\net6.0\ref\Drawing Shapes.dll
