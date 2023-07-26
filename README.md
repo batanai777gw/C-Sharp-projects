@@ -3,7 +3,7 @@
 author: Batanai Gwanyanya
 
 C# Fundamentals. 
-Content: code done in C# to for beginners.
+Content: all code is written in C#.
 1. Drawing shapes
 2. Data Types
 3. Working with strings
